@@ -1,0 +1,46 @@
+Abilene Junction_City Salina
+Andover El_Dorado Augusta Wichita
+Anthony Bluff_City Attica Harper Kiowa
+Argonia Harper Mayfield
+Attica Medicine_Lodge Anthony
+Augusta Winfield Andover Leon Wichita El_Dorado
+Bluff_City Anthony Caldwell
+Caldwell South_Haven Bluff_City Mayfield
+Cheney Kingman Wichita
+Clearwater Wichita
+Coldwater Greensburg Medicine_Lodge
+Derby Wichita
+El_Dorado Towanda Andover Augusta Emporia Florence Wichita
+Emporia El_Dorado Marion
+Florence McPherson Hillsboro El_Dorado Newton
+Greensburg Coldwater Pratt
+Harper Anthony Argonia Rago
+Haven Hutchinson
+Hays Salina
+Hillsboro Florence McPherson
+Hutchinson Newton Haven Kingman
+Junction_City Abilene Marion Manhattan Topeka
+Kingman Cheney Hutchinson Pratt
+Kiowa Anthony Medicine_Lodge
+Leon Augusta
+Lyons McPherson
+Manhattan Junction_City
+Marion McPherson Newton Emporia Junction_City
+Mayfield Wellington Caldwell Argonia
+McPherson Salina Lyons Hillsboro Florence Newton Marion
+Medicine_Lodge Attica Kiowa Coldwater
+Mulvane Wellington Wichita
+Newton McPherson Hutchinson Florence Marion Wichita
+Oxford Wellington
+Pratt Greensburg Kingman Sawyer
+Rago Viola Sawyer Harper
+Salina Abilene Hays McPherson
+Sawyer Pratt Zenda Rago
+South_Haven Caldwell Wellington
+Topeka Junction_City
+Towanda El_Dorado
+Viola Rago
+Wellington Oxford Mayfield Mulvane South_Haven
+Wichita Derby Clearwater Cheney Mulvane Andover Newton El_Dorado Augusta
+Winfield Augusta
+Zenda Sawyer
